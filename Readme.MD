@@ -26,7 +26,7 @@ Technically, this project works around a single page, index.php. The webpage con
 
 There are three "states" for the index page:
 
-1. If $_POST is empty, the page will parse a file called sentences.txt into an array. Unique pseudo-random numbers between zero and the size of the array are generated to pick sentences in the array. For each sentence, the hardcoded <missing> tag is replaced by an input field and an open and close <b> tag is added around the verb in parentheses.
+1. If $_POST is empty, the page will parse a file called sentences.txt into an array. Unique pseudo-random numbers between zero and the size of the array are generated to pick sentences in the array. For each sentence, the hardcoded *missing* HTML tag is replaced by an input field and an open and close bold tag is added around the verb in parentheses.
 
 If $_POST is set, the page examines which of the two forms was submitted and act accordingly:
 
