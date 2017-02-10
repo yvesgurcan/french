@@ -1,7 +1,5 @@
 # Bonjour !
 
-## The app
-
 I wrote this micro-site to help my wife study the present tense in French. The app is meant to be used by one user only. The score of the user can be resetted manually.
 
 This project was a personal challenge written in one sitting in HTML and plain PHP. The CSS layout is powered by Bootstrap/jQuery with minor custom styling.
