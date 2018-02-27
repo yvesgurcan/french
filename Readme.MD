@@ -34,7 +34,7 @@ To reinitialize the counter, simply remove the numbers in *right.txt* and *total
 
 I do not plan on continuing the development of this app. However, I know that it could benefit from the following enhancement:
 
-* Secure the input coming from $_POST, $_GET, and $_SESSION to prevent malicious use of the from.
+* Secure the input coming from $_POST, $_GET, and $_SESSION to prevent malicious use of the form.
 
 * Create an add.php page so that a user can submit new sentences to add to sentences.txt.
 
@@ -46,4 +46,4 @@ I do not plan on continuing the development of this app. However, I know that it
 
 * Add multi-user support.
 
-* Create different flavor of this exercise with other tenses such as *imparfait* or the future tense.
+* Create different flavors of this exercise with other tenses such as *imparfait* or the future tense.
