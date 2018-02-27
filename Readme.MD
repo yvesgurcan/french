@@ -1,5 +1,3 @@
-# The App
-
 This project was a personal challenge written in one sitting over a weekend. I wrote this single-page app to help my wife study the present tense in French. The website is for a single user.
 
 The app displays a number of randomly picked French sentences. The user must fill in the blank with the verb given in parentheses and conjugate it correctly.
@@ -10,13 +8,13 @@ When the user submits their answers, they are compared with the right answers. I
 
 The user's score is saved in a text file. The sentences are pulled from a selection of sentences in another text file
 
-Once the user has seen how they did, they can choose to try a new set of sentences to continue practicing their French conjugation skills.
+Once the user has seen how well they did, they can choose to try a new set of sentences to continue practicing their French conjugation skills.
 
-# The Stack
+# The stack
 
-This app was built with plain HTML, Bootstrap, jQuery, and php.
+This app was built with plain HTML, Bootstrap, jQuery, and PHP.
 
-# Details On The Flow Of The App
+# Details on the flow of the app
 
 The webpage contains two forms that POST the data to itself. The page has three "states":
 
