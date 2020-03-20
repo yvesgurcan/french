@@ -1,7 +1,3 @@
-# Install
-
-Simply clone the repository on your server and you are good to go.
-
 # The app
 
 This project was a personal challenge written in one sitting over a weekend. I wrote this single-page app to help my wife study the present tense in French. The website is for a single user.
